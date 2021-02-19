@@ -38,7 +38,7 @@ todo list:
 
  Turtle图形显示：
 
-![image](https://github.com/SHMoney2021/I-Ching/blob/main/output-turtle.png)
+![image](https://pic1.zhimg.com/80/v2-f51628038c68ae98360a47736356d020_1440w.jpg)
 
 
  shell output:
