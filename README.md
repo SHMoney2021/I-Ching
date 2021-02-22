@@ -36,7 +36,7 @@ todo list:
 
  Turtle图形显示：
 
-![image](https://pic2.zhimg.com/v2-2ab66b3815bec7574eb344ced0739271_r.jpg)
+![image](https://pic2.zhimg.com/80/v2-2ab66b3815bec7574eb344ced0739271_1440w.jpg)
 
 
  shell output:
